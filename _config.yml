@@ -1,8 +1,7 @@
 name: HASH
 favicon: null
-layout_spectrum: 0.39996
-typography_spectrum: 0.68116
-title: HASH Official
+layout_spectrum: 0.1708073851186782
+typography_spectrum: 0.18505113595165312
 cta:
   domain: null
   bucket: null
@@ -17,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#060606'
-    - '#e6e6e6'
-    - '#272727'
-    - '#a4a4a4'
-    - '#737373'
-  brandStrength: 0.4375
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.34448641655035317
   lightness: 0.7788938807789236
   saturation: 0.6596007400657982
   rhythmicContrast: 0.9358467187266797
