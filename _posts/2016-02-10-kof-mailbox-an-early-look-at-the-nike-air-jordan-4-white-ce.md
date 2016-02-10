@@ -1,14 +1,10 @@
 ---
-author:
-  - name: antisneakerhead
-    url: 'http://www.kicksonfire.com/author/antisneakerhead/'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.kicksonfire.com'
-  name: KicksOnFire.com
-  favicon: 'http://www.kicksonfire.com/favicon.ico'
-  domain: www.kicksonfire.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.kicksonfire.com/nike-air-jordan-4-white-cement-2016-retro-video/'
+inLanguage: en
+starred: false
 keywords:
   - jordan
   - cement
@@ -21,17 +17,23 @@ keywords:
   - trepidation
   - sneakerheads
 description: "\"Nike Air\" is not bulletproof, as it turns out. Just because you slap on the original branding on a shoe and call it a remaster doesn't mean people are going to buy them in bunches, as evidenced by the Air Jordan 6 Maroon."
-inLanguage: en
+datePublished: '2016-02-10T17:04:37.309Z'
+dateModified: '2016-02-10T17:04:06.144Z'
+author:
+  - name: antisneakerhead
+    url: 'http://www.kicksonfire.com/author/antisneakerhead/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.kicksonfire.com/nike-air-jordan-4-white-cement-2016-retro-video/'
 title: 'KoF Mailbox: An Early Look At The Nike Air Jordan 4 White Cement 2016 Retro (Video) * KicksOnFire.com'
-datePublished: '2016-02-10T16:59:20.037Z'
-dateModified: '2016-02-10T16:57:44.139Z'
 sourcePath: _posts/2016-02-10-kof-mailbox-an-early-look-at-the-nike-air-jordan-4-white-ce.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: KicksOnFire.com
+  domain: www.kicksonfire.com
+  url: 'http://www.kicksonfire.com'
+  favicon: 'http://www.kicksonfire.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
