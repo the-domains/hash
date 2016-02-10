@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[HASH]]></title>
-        <description><![CDATA[HASH]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[HASH Official]]></title>
+        <description><![CDATA[HASH Official]]></description>
+        <link>https://thegrid.ai/hash/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 16:56:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 17:05:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hash/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[adidas Yeezy Boost 350 Pirate Black (2016 Restock List) * KicksOnFire.com]]></title>
+            <description><![CDATA[<article><h1>adidas Yeezy Boost 350 Pirate Black (2016 Restock List) * KicksOnFire.com</h1><p>Release Date: February 19, 2016 Price: $200 The Pirate Black colorway of the adidas Yeezy Boost 350 is set to restock on February 19, 2016. We first saw this Pirate Black colorway make its debut in August of 2015 and is now set to return six months later.</p><img src="http://5.kicksonfire.net/wp-content/uploads/2016/02/Yeezy-Boost-350-Pirate-Black-1.jpg?a87140"></article>]]></description>
+            <link>http://www.kicksonfire.com/adidas-yeezy-boost-350-pirate-black-restock/</link>
+            <guid isPermaLink="false">dea89723-b59d-47ac-bb41-53d1b95f46b9</guid>
+            <pubDate>Wed, 10 Feb 2016 16:59:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59ceb4ee-6e08-495c-a7f3-867a4bd3e86c.png">]]></description>
-            <link>undefinedca8f3841-847e-4177-b734-86429b755c6f/index.html</link>
+            <link>https://thegrid.ai/hash/ca8f3841-847e-4177-b734-86429b755c6f/index.html</link>
             <guid isPermaLink="false">ca8f3841-847e-4177-b734-86429b755c6f</guid>
             <pubDate>Wed, 10 Feb 2016 16:50:50 GMT</pubDate>
         </item>
