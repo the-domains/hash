@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://www.kicksonfire.com'
   name: KicksOnFire.com
-  favicon: 'http://www.kicksonfire.com/favicon.ico'
   domain: www.kicksonfire.com
+  url: 'http://www.kicksonfire.com'
+  favicon: 'http://www.kicksonfire.com/favicon.ico'
 keywords:
   - adidas
   - store
@@ -25,13 +25,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.kicksonfire.com/adidas-yeezy-boost-350-pirate-black-restock/'
 title: 'adidas Yeezy Boost 350 Pirate Black (2016 Restock List) * KicksOnFire.com'
-datePublished: '2016-02-10T16:59:29.328Z'
-dateModified: '2016-02-10T16:57:50.666Z'
+datePublished: '2016-02-10T17:00:10.121Z'
+dateModified: '2016-02-10T17:00:03.365Z'
 sourcePath: _posts/2016-02-10-adidas-yeezy-boost-350-pirate-black-2016-restock-list-ki.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
