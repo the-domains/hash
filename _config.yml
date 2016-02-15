@@ -1,5 +1,8 @@
+name: HASH
+favicon: null
+layout_spectrum: 0.32432
+typography_spectrum: 0.68116
 title: HASH Official
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5977443
-  brandStrength: 0.5698174
-  lightness: 0.5687433
   brandColors:
     - '#414343'
     - '#88796E'
     - '#DFD9D7'
     - '#B5AAA3'
     - '#1E1F21'
-  rhythmicContrast: 0.75
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: HASH
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.68116
-layout_spectrum: 0.32432
+  brandStrength: 0.0625
+  lightness: 0.5687433
+  saturation: 0.5977443
+  rhythmicContrast: 0.5
+purpose: []
