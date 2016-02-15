@@ -2,7 +2,7 @@ name: HASH
 favicon: null
 layout_spectrum: 0.85602
 typography_spectrum: 0.68116
-title: HASH Official
+title: HASH
 collections:
   - index:
       path: /
